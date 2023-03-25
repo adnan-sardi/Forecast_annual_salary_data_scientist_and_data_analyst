@@ -1,4 +1,4 @@
-# Forecast_annual_salary_data_scientist_and_data_analysts
+# Forecast_annual_salary_data_scientist_and_data_analyst
 
 Data Scientist: The Sexiest Job of the 21st Century.
 
